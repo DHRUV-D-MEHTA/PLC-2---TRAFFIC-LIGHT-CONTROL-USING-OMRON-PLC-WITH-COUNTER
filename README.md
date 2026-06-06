@@ -53,24 +53,24 @@ Step 3	W0.03
 Initial Delay
 Start Switch ON
 Wait 2 seconds
-# Step 1
+### Step 1
 Red Lamp ON
 Time = 5 sec
-# Step 2
+### Step 2
 Red Lamp OFF
 Yellow Lamp ON
 Time = 5 sec
-# Step 3
+### Step 3
 Yellow Lamp OFF
 Green Lamp ON
 Time = 5 sec
-# Step 4
+### Step 4
 Green Lamp OFF
 Counter increments by 1
-# Step 5
+### Step 5
 If Counter < 5
 Repeat cycle
-# Step 6
+### Step 6
 If Counter = 5
 Wait 10 seconds
 Reset Counter
